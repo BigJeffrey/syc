@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pizza size</string>
+    <string name="textPow">Surface of Your pizza is</string>
+    <string name="button1">Calculate</string>
+</resources>

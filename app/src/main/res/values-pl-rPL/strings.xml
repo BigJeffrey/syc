@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PizzoMetr</string>
+    <string name="textPow">Powierzchnia pizzy to</string>
+    <string name="button1">Przelicz</string>
+</resources>
