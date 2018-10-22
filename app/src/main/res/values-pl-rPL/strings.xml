@@ -3,4 +3,5 @@
     <string name="app_name">PizzoMetr</string>
     <string name="textPow">Powierzchnia pizzy to</string>
     <string name="button1">Przelicz</string>
+    <string name="text2">Podaj średnicę pizzy</string>
 </resources>
