@@ -3,4 +3,8 @@
     <string name="textPow">Surface of Your pizza is</string>
     <string name="button1">Calculate</string>
     <string name="text2">Type diameter of your pizza</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
